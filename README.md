@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Supachai</h1>
-<h3 align="center">Learning about computers is easy and never stop learning.</h3>
+<h1>Hi 👋, I'm Supachai</h1>
+<h3>Learning about computers is easy and never stop learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
