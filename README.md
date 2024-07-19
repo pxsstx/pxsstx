@@ -96,4 +96,8 @@ Computer Engineer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pxsstx&show_icons=true&locale=en&layout=compact&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxsstx&show_icons=true&theme=dark&locale=en)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pxsstx&theme=dark)
+
+
