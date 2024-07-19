@@ -1,6 +1,6 @@
 # Hi 👋, I'm Supachai Srijundang
 ### I’m studying Computer Engineering because of my genuine passion for technology and my desire to deepen my knowledge in the field.
-============================  
+
 Computer Engineer 
 ----------------- 
 - 🌍  I'm based in Bangkok
