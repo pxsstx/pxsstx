@@ -5,7 +5,7 @@ Computer Engineer
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Portfolio](http://showportfoliox.web.app)
 * ✉️  You can contact me at [pxsstx@gmail.com](mailto:pxsstx@gmail.com)
-* 🧠  I'm learning React and Tailwind.
+* 🧠  I'm learning ReactJS , NextJS and Tailwind.
 
 ### Skills  
 
