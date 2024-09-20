@@ -8,6 +8,7 @@ Computer Engineer
 - 👨‍💻 All of my projects are available at [https://portfolio-supachai.web.app/](https://portfolio-supachai.web.app/)
 - 💬 Ask me about **NextJs, ReactJs, and TailwindCSS**
 - 📫 How to reach me **pxsstx@gmail.com**
+- Website My learning in Computer Engineer at [https://computer-engineer-umber.vercel.app](https://computer-engineer-umber.vercel.app)
 
 ### Connect with me:
 <p>
