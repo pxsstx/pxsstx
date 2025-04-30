@@ -58,9 +58,6 @@ Computer Engineer
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30">
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30">
-  </a>
 </p>
 
 #### Database:
