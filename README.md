@@ -1,101 +1,79 @@
-# Hi 👋, I'm Supachai Srijundang
-### I’m studying Computer Engineering because of my genuine passion for technology and my desire to deepen my knowledge in the field.
+<div align="center">
 
-Computer Engineer 
------------------ 
-- 🌍  I'm based in Bangkok
-- 🌱 I’m currently learning **NextJs is often described as a full-stack framework**
-- 👨‍💻 All of my projects are available at [https://portfolio-supachai.web.app/](https://portfolio-supachai.web.app/)
-- 💬 Ask me about **NextJs, ReactJs, and TailwindCSS**
-- 📫 How to reach me **pxsstx@gmail.com**
-- Website My learning in Computer Engineer at [https://computer-engineer-umber.vercel.app](https://computer-engineer-umber.vercel.app)
+<br>
 
-### Connect with me:
-<p>
-  <a href="https://linkedin.com/in/supachai-srijundang" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
-  </a>
-  <a href="https://instagram.com/pxsstx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">
-  </a>
-  <a href="https://github.com/pxsstx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30">
-  </a>
-</p>
+<h1>Supachai Srijundang</h1>
 
-### Languages and Tools:
+<p>Full Stack Developer · Building modern web applications, automation tools,<br>and scalable systems with clean user experiences.</p>
 
-#### Front-End:
-<p>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
-  </a>
-</p>
+<br>
 
-#### Back-End:
-<p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30">
-  </a>
-</p>
+<a href="https://portfolio.supachai-sr.in.th">
+  <img src="https://img.shields.io/badge/-portfolio.supachai--sr.in.th-c97d4e?style=flat-square&logo=vercel&logoColor=fff" height="26"/>
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/supachai-srijundang/">
+  <img src="https://img.shields.io/badge/-LinkedIn-5a7fa8?style=flat-square&logo=linkedin&logoColor=fff" height="26"/>
+</a>
+&ensp;
+<a href="mailto:supachai.sr.work@gmail.com">
+  <img src="https://img.shields.io/badge/-supachai.sr.work@gmail.com-8a7060?style=flat-square&logo=gmail&logoColor=fff" height="26"/>
+</a>
 
-#### Database:
-<p>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30">
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="30" height="30">
-  </a>
-</p>
+<br><br>
 
-#### Other Tools:
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30">
-  </a>
-  <a href="https://postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30">
-  </a>
-</p>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pxsstx&show_icons=true&locale=en&layout=compact&theme=dark)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxsstx&show_icons=true&theme=dark&locale=en)
+&nbsp;&nbsp;&nbsp;`/about`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pxsstx&theme=dark)
+&nbsp;&nbsp;&nbsp;I enjoy turning ideas into usable products with a calm, minimal, and professional design approach.
 
+&nbsp;&nbsp;&nbsp;Currently interning as a **Fullstack Developer** at **Z.KURODA (Thailand) Co., LTD.**
 
+<br>
+
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;Studying Computer Engineering — driven by a genuine passion for technology.
+
+&nbsp;&nbsp;&nbsp;🌍 &nbsp;Based in Bangkok, Thailand.
+
+<br>
+
+---
+
+&nbsp;&nbsp;&nbsp;`/stack`
+
+<br>
+
+&nbsp;&nbsp;&nbsp;**Frontend** &nbsp;&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind CSS
+
+&nbsp;&nbsp;&nbsp;**Backend** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; ASP.NET Core &nbsp;·&nbsp; REST APIs
+
+&nbsp;&nbsp;&nbsp;**Database** &nbsp;&nbsp; SQL Server &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis
+
+&nbsp;&nbsp;&nbsp;**Tooling** &nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Docker
+
+&nbsp;&nbsp;&nbsp;**Other** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Automation &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; UI/UX
+
+<br>
+
+---
+
+&nbsp;&nbsp;&nbsp;`/stats`
+
+<br>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pxsstx&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=1a1714&title_color=c97d4e&text_color=c8b8a8&icon_color=8a7060)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxsstx&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=1a1714&title_color=c97d4e&text_color=c8b8a8&icon_color=8a7060)
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pxsstx&theme=dark&hide_border=true&background=1a1714&ring=c97d4e&fire=c97d4e&currStreakLabel=c97d4e&sideLabels=8a7060&currStreakNum=c8b8a8&sideNums=c8b8a8&dates=8a7060)
+
+</div>
